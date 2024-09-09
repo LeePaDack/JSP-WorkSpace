@@ -13,5 +13,7 @@
 	for(int i = 1; i <= 5; i++) { %>
 		<strong>i 는 <%= i %> 이다.</strong><br>
 	<% } %>
+	
+	<a href="/">HOME</a>
 </body>
 </html>

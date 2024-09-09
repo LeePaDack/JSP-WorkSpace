@@ -25,5 +25,7 @@
 				<li><%= f %></li>
 			</ul>
 		<% } %>
+		
+	<a href="/">HOME</a>
 </body>
 </html>

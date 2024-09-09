@@ -9,5 +9,7 @@
 <body>
 	<h1>컨트롤러에서 jsp 를 읽을 수 있는지 확인</h1>
 	<p>컨트롤러에서 listExample.jsp 를 무사히 읽을 수 있습니다.</p>
+	
+	<a href="/">HOME</a>
 </body>
 </html>
